@@ -1,0 +1,17 @@
+{
+    "landbot_token": "",
+    "landbot_bot_id_redirection":"",
+    "landbot_node_id_redirection":"",
+    "landbot_control_variable":"",
+    "landbot_channel_type":"",
+
+    "slack_app_token":"",
+    "slack_agent_ids":"",
+    "slack_close_chat_keyword":"",
+    "slack_agent_to_mention":"",
+    "slack_app_channel_name":"",
+    "slack_base_channel_name":"",
+    "slack_icon_pic_src":"",
+
+    "baseURL":"" 
+}
